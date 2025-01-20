@@ -1,35 +1,11 @@
 {
   "exercises": [
     {
-      "name": "variables3",
-      "result": false
-    },
-    {
-      "name": "intro2",
-      "result": false
-    },
-    {
-      "name": "variables5",
-      "result": false
-    },
-    {
-      "name": "variables4",
-      "result": false
-    },
-    {
-      "name": "variables1",
-      "result": false
-    },
-    {
       "name": "variables6",
-      "result": false
-    },
-    {
-      "name": "functions5",
       "result": true
     },
     {
-      "name": "functions1",
+      "name": "variables4",
       "result": true
     },
     {
@@ -37,23 +13,11 @@
       "result": true
     },
     {
-      "name": "functions3",
+      "name": "variables2",
       "result": true
     },
     {
-      "name": "variables2",
-      "result": false
-    },
-    {
-      "name": "if3",
-      "result": false
-    },
-    {
-      "name": "quiz1",
-      "result": false
-    },
-    {
-      "name": "if1",
+      "name": "functions5",
       "result": true
     },
     {
@@ -61,15 +25,51 @@
       "result": true
     },
     {
+      "name": "intro2",
+      "result": true
+    },
+    {
+      "name": "if1",
+      "result": true
+    },
+    {
+      "name": "functions3",
+      "result": true
+    },
+    {
+      "name": "functions1",
+      "result": true
+    },
+    {
+      "name": "variables3",
+      "result": true
+    },
+    {
+      "name": "variables5",
+      "result": true
+    },
+    {
       "name": "if2",
+      "result": true
+    },
+    {
+      "name": "variables1",
+      "result": true
+    },
+    {
+      "name": "if3",
+      "result": true
+    },
+    {
+      "name": "quiz1",
       "result": true
     }
   ],
   "user_name": null,
   "statistics": {
     "total_exercations": 16,
-    "total_succeeds": 7,
-    "total_failures": 9,
+    "total_succeeds": 16,
+    "total_failures": 0,
     "total_time": 1
   }
 }

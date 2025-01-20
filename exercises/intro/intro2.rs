@@ -8,5 +8,6 @@
 // I AM NOT DONE
 
 fn main() {
-    println!("Hello {}!");
+    let s=String::from(",world");
+    println!("Hello {}!",s);
 }
